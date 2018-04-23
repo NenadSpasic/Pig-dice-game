@@ -129,7 +129,7 @@ button:focus {
 }
 
 i {
-    color: #001aff ; /* #40d6cf  #EB4D4D  #fdb61d */
+    color:  #00aeff; /*   #EB4D4D  #fdb61d #001aff  #40d6cf*/
     display: inline-block;
     margin-right: 15px;
     font-size: 32px;
